@@ -1,4 +1,4 @@
-# Object-Color-Detection-Python
+# ObjectColorDetection---Python
 
 
 pip install opencv-python
